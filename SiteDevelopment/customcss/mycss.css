@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Asul:wght@400;700&family=Bungee+Tint&display=swap');
+
+
+header {
+    background-position: center;
+    background-color: black;
+    background-size: cover;
+    font-size: 100px;
+    padding: 225px;
+    font-family: "Bungee Tint", sans-serif;
+    background-image: url(../images/vancouver-downtown-architecture-boat-with-water-reflections-dusk-panorama.jpg)
+    
+    
+}
+
+
+
+nav{
+    
+
+    background-image: url(../images/blue-mathematical-dot-symbols-pattern-260nw-2621438299.jpg)
+    
+}
+
+ul li a:hover {
+    
+    background-color: #3c64b2
+    
+    
+    
+}
+
+h2{
+    font-family: "Bungee Tint", sans-serif;
+}
+
+body{
+    background-image: linear-gradient(180deg, rgba(9, 182, 237, 1) 0%, rgba(82, 128, 255, 1) 50%, rgba(8, 107, 153, 1) 100%);
+}
+
+footer{
+background-color: #015982
+}
+
+img{
+  
+    -webkit-box-shadow: 10px 7px 28px 0px rgba(0, 0, 0, 0.6);
+    box-shadow: 10px 7px 28px 0px rgba(0, 0, 0, 0.6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+
+p{
+    font-family: "Asul", serif;
+    color: blanchedalmond;
+}
+
+.geo{
+    background-image: url(../images/photobridge.jpg);
+    
+}
+
+.people{
+    background-image: url(../images/vancouverpeople.jpg);
+}
+
+.economy{
+    background-image: url(../images/portofvancouver.jpg);
+}
+
+.attr{
+    background-image: url(../images/whistler.jpg);
+}
